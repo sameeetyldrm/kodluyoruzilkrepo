@@ -1,8 +1,8 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
-##Installation
+## Installation
 Öncelikle projeyi clonelayın. (https://github.com/sameeetyldrm/kodluyoruzilkrepo.git)
 
-[git clone](https://github.com/sameeetyldrm/kodluyoruzilkrepo.git)
+[git clone] (https://github.com/sameeetyldrm/kodluyoruzilkrepo.git)
 
